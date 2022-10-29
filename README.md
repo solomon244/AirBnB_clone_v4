@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Solomon Legesse - [Github](https://github.com/solomon244) / [Twitter](https://twitter.com/)  
-David ERUBURE - [Github](https://github.com/hiskylord) / [Twitter](https://twitter.com/hiskylord)  
+Ejiro David ERUBURE - [Github](https://github.com/hiskylord) / [Twitter](https://twitter.com/hiskylord)  
 
 Second part of Airbnb: Joann Vuong
 ## License
